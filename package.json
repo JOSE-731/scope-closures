@@ -1,0 +1,20 @@
+{
+  "name": "Scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOSE-731/scope-closures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOSE-731/scope-closures/issues"
+  },
+  "homepage": "https://github.com/JOSE-731/scope-closures#readme"
+}
